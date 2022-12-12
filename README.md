@@ -15,6 +15,9 @@ Chrome v1+ | Firefox v1+ | Edge v12+ | Opera v3 | IE v9+ | Safari v1 | Android W
 <script src="https://cdn.jsdelivr.net/gh/equneko/alfascript/src/v0.11/alfascript.min.js"></script>
 ```
 
+# Code Playground
+CodePen.io https://codepen.io/equneko/pen/OJEYjKb
+
 # Get Started
 Deal with **Standard Feature** for a useful code, that had been type more than once. </br>
 An example below are the basic of **AlfaScript** additional experiment features. ``alfa.use(feature)``,
