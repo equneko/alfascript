@@ -6,7 +6,7 @@ That brings you to the different way of coding on the web-browsers.
 Chrome v1+ | Firefox v1+ | Edge v12+ | Opera v3 | IE v9+ | Safari v1 | Android WebView v4.4
 
 # Installation
-- Download Released Versions
+- Download Release Versions
 - Using CDN JSDelivr:
 ```xml
 <script src="https://cdn.jsdelivr.net/gh/equneko/alfascript/src/v0.11/alfascript.js"></script>
